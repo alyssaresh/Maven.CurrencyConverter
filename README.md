@@ -35,7 +35,7 @@ Fork this repository and submit the URL of your fork via the Student Portal.
     * 1 Euro is 1.88 Universal Currency
     * 1 US Dollar is 2.00 Universal Currency
     * 1 US Dollar is 0.94 Euro
-
+//convert both to universal currency & then divide one by the other
 
 
 # Planning and Execution: 
